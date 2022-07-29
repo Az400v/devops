@@ -1,4 +1,3 @@
 "FileC" - Version2
 new test
-more text
 
